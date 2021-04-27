@@ -1,0 +1,7 @@
+id=magisk-otg
+name=OTG Enabler
+version=1.0
+versionCode=1
+author=detou
+description=Enable OTG on android device
+minMagisk=1700
